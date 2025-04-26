@@ -22,37 +22,37 @@ export const navItems = [
 export const testimonials = [
   {
     user: 'John Doe',
-    company: 'Stellar Solutions',
+    company: 'Nexora Systems',
     image: user1,
     text: 'I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.'
   },
   {
-    user: 'Jane Smith',
-    company: 'Blue Horizon Technologies',
+    user: 'Angelo Micheal',
+    company: 'ByteBloom Solutions',
     image: user2,
     text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life"
   },
   {
     user: 'David Johnson',
-    company: 'Quantum Innovations',
+    company: 'FusionStack Labs',
     image: user3,
     text: 'Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.'
   },
   {
-    user: 'Ronee Brown',
-    company: 'Fusion Dynamics',
+    user: 'Jane Smith',
+    company: 'CodeNest Technologies',
     image: user4,
     text: 'Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!'
   },
   {
     user: 'Michael Wilson',
-    company: 'Visionary Creations',
+    company: 'AetherSoft Innovations',
     image: user5,
     text: 'I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.'
   },
   {
     user: 'Emily Davis',
-    company: 'Synergy Systems',
+    company: 'QuantumLeap Software',
     image: user6,
     text: 'The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.'
   }
@@ -122,33 +122,33 @@ export const checklistItems = [
 
 export const pricingOptions = [
   {
-    title: 'Free',
-    price: '$0',
+    title: 'Frontend Development',
+    price: '$150',
     features: [
-      'Private board sharing',
-      '5 Gb Storage',
-      'Web Analytics',
-      'Private Mode'
+      'Advanced UI/UX Design',
+      'Interactive Frontend Development',
+      'Performance & Speed Boosting',
+      'Regular Maintenance & Support'
     ]
   },
   {
-    title: 'Pro',
-    price: '$10',
-    features: [
-      'Private board sharing',
-      '10 Gb Storage',
-      'Web Analytics (Advance)',
-      'Private Mode'
-    ]
-  },
-  {
-    title: 'Enterprise',
+    title: 'Backend Development',
     price: '$200',
     features: [
-      'Private board sharing',
-      'Unlimited Storage',
-      'High Performance Network',
-      'Private Mode'
+      'Database Design & Management',
+      'Authentication & User Management',
+      'Scalable Database Solutions',
+      'Maintenance & Continuous Support'
+    ]
+  },
+  {
+    title: 'Full-Stack Development ',
+    price: '$300',
+    features: [
+      'Frontend & Backend Development',
+      'User Authentication Systems',
+      'Advanced Security Measures',
+      'Ongoing Support & Updates'
     ]
   }
 ];
