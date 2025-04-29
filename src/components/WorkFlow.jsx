@@ -4,7 +4,7 @@ import { checklistItems } from '../constants';
 
 const WorkFlow = () => {
   return (
-    <div className="mt-20">
+    <div className="mt-20" id="WorkFlow">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center mt-6 tracking-wide">
         Supercharge Your{' '}
         <span className="bg-gradient-to-r from-blue-600 to-blue-800 text-transparent bg-clip-text">
